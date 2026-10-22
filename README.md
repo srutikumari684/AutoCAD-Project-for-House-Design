@@ -16,7 +16,6 @@ AutoCAD-2D-3D-Civil-Engineering-Projects/
 ├── 20 ED Drawings/     # Engineering drawing assignments
 ├── Building Plans/     # Building plans and layouts
 ├── pdf print/          # PDF drawing exports
-├── certificate/        # Training-related certificate files
 ├── Villa Plan - Final Project.dwg
 ├── LICENSE
 └── README.md
